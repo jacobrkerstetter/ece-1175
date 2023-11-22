@@ -1,5 +1,7 @@
 import psutil
 
+maxFreq = 
+
 while True:
     # step 1: measure utilization ratio
     utils = []
